@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1076822066917",
+    "firebase_url": "https://yue-ye.firebaseio.com",
+    "project_id": "yue-ye",
+    "storage_bucket": "yue-ye.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076822066917:android:0621b72c05b66dab",
+        "android_client_info": {
+          "package_name": "com.jianwen.yueye"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1076822066917-moaqc8g7sv0ib3f35mdgg5gpsja036ku.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jianwen.yueye",
+            "certificate_hash": "58bffe3271432d2cc02a6648d00aade53df014af"
+          }
+        },
+        {
+          "client_id": "1076822066917-kfa5ad1jmkpp8hsp6opkd0pu6ev4barp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZL-hjc4lY8oI5MVE8VHtufyWL8TV5iJI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1076822066917-kfa5ad1jmkpp8hsp6opkd0pu6ev4barp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
